@@ -1,0 +1,11 @@
+#header {
+	font-family: sans-serif;
+}
+
+.sub {
+	color: grey;
+}
+
+#button, .button {
+	margin: 2px;
+}
